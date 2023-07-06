@@ -1,0 +1,8 @@
+# ignorer le répértoire node modules
+/node_modules
+
+# ignorer le dossier de téléchargements des images
+/images
+
+# ignorer le fichier contenant les identifiants de connection mongodb
+.env
